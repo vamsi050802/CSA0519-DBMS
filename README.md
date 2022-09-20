@@ -8,3 +8,11 @@
 ##Experiment 3
 [SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/exp3)
 ![image](https://user-images.githubusercontent.com/113341273/191316773-906d19f4-b93d-456e-ae53-51a145f0175f.png)
+##Experiment 4
+[SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/EXP4)
+![image](https://user-images.githubusercontent.com/113341273/191317552-5e8d993f-2f58-4b20-942b-bc99fc8781e7.png)
+![image](https://user-images.githubusercontent.com/113341273/191317600-13227f5c-b1ea-40c8-a990-5eba8378ce7d.png)
+![image](https://user-images.githubusercontent.com/113341273/191317643-f3534bba-0712-4ddd-a389-b2067f484ead.png)
+![image](https://user-images.githubusercontent.com/113341273/191317764-ef147bb5-5415-4bb0-8ba6-af4bc9860604.png)
+![image](https://user-images.githubusercontent.com/113341273/191317878-5da43949-5374-41e5-ad35-5fb0ed2796cb.png)
+![image](https://user-images.githubusercontent.com/113341273/191317935-874aea9f-e0a9-4d3e-9cc9-035ee98b2128.png)
