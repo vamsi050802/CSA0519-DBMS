@@ -8,4 +8,3 @@
 ##Experiment 3
 [SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/exp3)
 ![image](https://user-images.githubusercontent.com/113341273/191316773-906d19f4-b93d-456e-ae53-51a145f0175f.png)
-
