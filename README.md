@@ -20,3 +20,6 @@
 [SQL QUERIES}(https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr6)
 ![image](https://user-images.githubusercontent.com/113341273/191318463-7d9da5c5-85d2-4b21-ba4e-ef95bb32ecd8.png)
 ![image](https://user-images.githubusercontent.com/113341273/191318500-24caa906-b1df-4987-bbab-bb893751cf1e.png)
+##Experiment 7
+[SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr7)
+![image](https://user-images.githubusercontent.com/113341273/191319093-e0c63162-854a-4ad1-ae78-bd2551c99881.png)
