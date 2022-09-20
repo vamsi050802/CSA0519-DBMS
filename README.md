@@ -5,3 +5,5 @@
 ##Experiment 2
 [SQL queries](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr2)
 <img width="1878" alt="expr2 out" src="https://user-images.githubusercontent.com/113341273/191315831-ca17b8da-80bf-43c4-8357-d24f7f40034c.png">
+##Experiment 3
+[SQL QUERIES]()
