@@ -23,3 +23,6 @@
 ##Experiment 7
 [SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr7)
 ![image](https://user-images.githubusercontent.com/113341273/191319093-e0c63162-854a-4ad1-ae78-bd2551c99881.png)
+##Experiment 8
+[SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr8)
+<img width="1878" alt="expr8 output" src="https://user-images.githubusercontent.com/113341273/191561724-f7ceadd8-0725-4de3-b9c8-3f1c8c16ab27.png">
