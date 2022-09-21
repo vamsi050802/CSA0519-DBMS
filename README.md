@@ -39,5 +39,6 @@
 ##Experiment 12
 [SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/exp12)
 <img width="1878" alt="expr 12 output" src="https://user-images.githubusercontent.com/113341273/191564814-af80f400-4760-4ddd-8087-84823640f5cb.png">
-
-
+##Experiment 14
+[SQL Queries](https://github.com/sadvika123/CSA0519-DBMS/blob/main/exp14)
+![image](https://user-images.githubusercontent.com/113341273/191565603-b314a75e-bf3c-4e14-9c90-263af8511293.png)
