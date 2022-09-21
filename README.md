@@ -33,3 +33,7 @@
 [SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr10)
 <img width="1878" alt="exp10 program1" src="https://user-images.githubusercontent.com/113341273/191563034-6dc51c63-ae22-4bf9-8f2c-4505505c4ffa.png">
 <img width="1878" alt="exp10 program2" src="https://user-images.githubusercontent.com/113341273/191563053-82096ff8-e5b6-4e84-a351-8b46922b329d.png">
+##Experiment 11
+[SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr11)
+![image](https://user-images.githubusercontent.com/113341273/191564231-d0532537-b7e7-49b7-aa58-ae5951e70338.png)
+
