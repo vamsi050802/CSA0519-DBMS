@@ -26,3 +26,6 @@
 ##Experiment 8
 [SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr8)
 <img width="1878" alt="expr8 output" src="https://user-images.githubusercontent.com/113341273/191561724-f7ceadd8-0725-4de3-b9c8-3f1c8c16ab27.png">
+##Experiment 9
+[SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr9)
+<img width="1878" alt="expr9 output" src="https://user-images.githubusercontent.com/113341273/191562440-9b7f528f-7a6f-4663-bc27-800f77a7a6e5.png">
