@@ -29,3 +29,7 @@
 ##Experiment 9
 [SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr9)
 <img width="1878" alt="expr9 output" src="https://user-images.githubusercontent.com/113341273/191562440-9b7f528f-7a6f-4663-bc27-800f77a7a6e5.png">
+##Experiment 10
+[SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr10)
+<img width="1878" alt="exp10 program1" src="https://user-images.githubusercontent.com/113341273/191563034-6dc51c63-ae22-4bf9-8f2c-4505505c4ffa.png">
+<img width="1878" alt="exp10 program2" src="https://user-images.githubusercontent.com/113341273/191563053-82096ff8-e5b6-4e84-a351-8b46922b329d.png">
