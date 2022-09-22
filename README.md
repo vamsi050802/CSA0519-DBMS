@@ -47,6 +47,8 @@
 <img width="1878" alt="exp15 prgm1" src="https://user-images.githubusercontent.com/113341273/191665093-f34d48d3-54bd-48f9-8caf-3fb9a793a298.png">
 <img width="1878" alt="expr15 prg2" src="https://user-images.githubusercontent.com/113341273/191665550-2bf5f903-4d7a-4d65-9782-092209e2ccde.png">
 ## experiment 16
-[SQL queries](
+[SQL queries](https://github.com/sadvika123/CSA0519-DBMS/blob/main/exp16)
+![image](https://user-images.githubusercontent.com/113341273/191705498-cd893614-2984-402f-87c2-98535c226084.png)
+
     
 
