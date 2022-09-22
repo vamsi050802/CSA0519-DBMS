@@ -62,6 +62,10 @@
 ![image](https://user-images.githubusercontent.com/113341273/191805622-e6d14230-e796-4d0a-8f0f-fb3e9681a46b.png)
 ![image](https://user-images.githubusercontent.com/113341273/191805645-b6018a62-7a13-472e-9d8a-06b717fd2070.png)
 ![image](https://user-images.githubusercontent.com/113341273/191805704-9a0ea551-57a7-4722-9de5-e172e7b1b1a6.png)
+##Experiment 21
+[SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr21)
+![image](https://user-images.githubusercontent.com/113341273/191806290-01d35737-db6f-40be-a259-545efe24e1a6.png)
+
 
 
     
