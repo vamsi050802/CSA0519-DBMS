@@ -49,6 +49,9 @@
 ## experiment 16
 [SQL queries](https://github.com/sadvika123/CSA0519-DBMS/blob/main/exp16)
 ![image](https://user-images.githubusercontent.com/113341273/191705498-cd893614-2984-402f-87c2-98535c226084.png)
+## experiment 17
+[SQL queries](https://github.com/sadvika123/CSA0519-DBMS/blob/main/exp17)
+![image](https://user-images.githubusercontent.com/113341273/191706412-1f549a7c-b02c-4159-8fc3-54153dd598a6.png)
 
     
 
