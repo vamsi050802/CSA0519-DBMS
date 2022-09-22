@@ -65,6 +65,11 @@
 ##Experiment 21
 [SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr21)
 ![image](https://user-images.githubusercontent.com/113341273/191806290-01d35737-db6f-40be-a259-545efe24e1a6.png)
+##Experiment 22
+[SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr22)
+![image](https://user-images.githubusercontent.com/113341273/191806738-ff426039-fb78-4312-819a-a07e8348bbaf.png)
+
+
 
 
 
