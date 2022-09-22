@@ -55,6 +55,14 @@
 ##experiment 18
 [SQL queries](https://github.com/sadvika123/CSA0519-DBMS/blob/main/exp18)
 ![image](https://user-images.githubusercontent.com/113341273/191707557-e7030fba-1e20-490d-9ebc-9e75f4058c1a.png)
+##Experiment 5
+[SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr5)
+![image](https://user-images.githubusercontent.com/113341273/191805505-d00fca76-f4c7-4f39-93fb-375cd2b65806.png)
+![image](https://user-images.githubusercontent.com/113341273/191805574-2fe86649-dfb4-401a-bfc0-bf7a39b1202f.png)
+![image](https://user-images.githubusercontent.com/113341273/191805622-e6d14230-e796-4d0a-8f0f-fb3e9681a46b.png)
+![image](https://user-images.githubusercontent.com/113341273/191805645-b6018a62-7a13-472e-9d8a-06b717fd2070.png)
+![image](https://user-images.githubusercontent.com/113341273/191805704-9a0ea551-57a7-4722-9de5-e172e7b1b1a6.png)
+
 
     
 
