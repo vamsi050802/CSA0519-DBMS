@@ -45,5 +45,6 @@
 ##Experiment 15
 [SQL QUERIES](https://github.com/sadvika123/CSA0519-DBMS/blob/main/expr15)
 <img width="1878" alt="exp15 prgm1" src="https://user-images.githubusercontent.com/113341273/191665093-f34d48d3-54bd-48f9-8caf-3fb9a793a298.png">
-<img width="1878" alt="exp15 prgm2" src="https://user-images.githubusercontent.com/113341273/191665117-a4c53c38-0c33-4af0-8f78-7b11dcc77aa4.png">
+<img width="1878" alt="expr15 prg2" src="https://user-images.githubusercontent.com/113341273/191665550-2bf5f903-4d7a-4d65-9782-092209e2ccde.png">
+
 
